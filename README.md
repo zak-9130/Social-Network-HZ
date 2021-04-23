@@ -4,7 +4,7 @@ Social Network HZ Mongo Project
 ### Introduction
 
 <p align="center">
-  <img src="![](image.png)" />
+  <img src=![](image.png) />
 </p>
 
  
