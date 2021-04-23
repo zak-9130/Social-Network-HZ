@@ -4,7 +4,7 @@ Social Network HZ Mongo Project
 ### Introduction
 
 <p align="center">
-<img src="https://github.com/zak-9130/Social-Network-HZ/blob/main/image2.png">
+<img src="https://github.com/zak-9130/Social-Network-HZ/blob/main/image 2.png">
 </p>
 
 
