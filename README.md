@@ -1,8 +1,6 @@
 # Social-Network-HZ
 Social Network HZ Mongo Project
-<div class="MongoDB Neo4j Project - Avril 2021 - Hicham Ousseni et Zakaria Jelti M2B DS IA School">
-  .text-gray-dark on .bg-blue-light
-</div>
+<div class="MongoDB Neo4j Project - Avril 2021 - Hicham Ousseni et Zakaria Jelti M2B DS IA School">.text-gray-dark on .bg-blue-light </div>
 
 
 ### Introduction
