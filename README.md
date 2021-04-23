@@ -3,9 +3,8 @@ Social Network HZ Mongo Project
 ## MongoDB Neo4j Project - Avril 2021 - Hicham Ousseni et Zakaria Jelti M2B DS IA School
 ### Introduction
 
- <p align="center"
-    ![](image.png)
- </p>
+<div style="text-align:center"><![](image.png) /></div>
+ 
  
 
 Ce Repo concerne un projet de création de base donnée noSQL (not only SQL) via la création d'un réseau social fictif (Proche de Twitter) . 
