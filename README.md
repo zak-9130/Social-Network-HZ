@@ -1,6 +1,8 @@
 # Social-Network-HZ
-Social Network HZ Mongo Project
-<div class="MongoDB Neo4j Project - Avril 2021 - Hicham Ousseni et Zakaria Jelti M2B DS IA School">.text-gray-dark on .bg-blue-light </div>
+
+## Social Network HZ Mongo Project
+
+### MongoDB Neo4j Project - Avril 2021 - Hicham Ousseni et Zakaria Jelti M2B DS IA School
 
 
 ### Introduction
@@ -10,7 +12,6 @@ Social Network HZ Mongo Project
 </p>
 
 
- 
 Ce Repo concerne un projet de création de base donnée noSQL (not only SQL) via la création d'un réseau social fictif (Proche de Twitter) . 
 Tout ceci est présenté sous forme d'une application crée à l'aide de Flask.
 Bonne découverte de notre nouvel univers social ! 
@@ -46,4 +47,6 @@ Bonne découverte de notre nouvel univers social !
 - Twitter_Social_Network_HZ.ipynb
 
 ## Ce projet nous a permis de découvrir les fonctionnalités des base de donnée noSQL orienté document en local ainsi que sur le cloud grâce à Atlas. Le projet nous a également permis de nous perfectionner dans la création d'application à travers Flask.
+
+
 
