@@ -18,13 +18,11 @@ Bonne découverte de notre nouvel univers social !
 ### Dépendences
 
 #### Neo4j
-<h1><center>- python3 (python 3.7.6)
+- python3 (python 3.7.6)
 - py2neo (Graph ,Node, Relation)
 - neo4j (GraphDatabase)
 - plotly  
 - datatime
-</center></h1>
-
 <p align="center">
   <img src="https://github.com/zak-9130/Social-Network-HZ/blob/main/image.png"  />
 </p>
