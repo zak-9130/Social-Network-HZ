@@ -2,14 +2,14 @@
 Social Network HZ Mongo Project
 ## MongoDB Neo4j Project - Avril 2021 - Hicham Ousseni et Zakaria Jelti M2B DS IA School
 ### Introduction
-<p align="center">
+
  ![](image.png)
 
   </p>
 
  <p align="center">
 
-   <img width="460" height="300" ![](image.png)>
+   < ![](image.png)>
  </p>
  
 
