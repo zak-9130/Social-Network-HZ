@@ -19,7 +19,7 @@ Bonne découverte de notre nouvel univers social !
 
 #### Neo4j
 
-<p align="center">
+<p align="right">
   <img src="https://github.com/zak-9130/Social-Network-HZ/blob/main/image.png"  />
 </p>
 
