@@ -4,7 +4,7 @@ Social Network HZ Mongo Project
 ### Introduction
 
   <p align="center">
-  <![](image.png)>
+  ![](image.png)
 </p>
 
 Ce Repo concerne un projet de création de base donnée noSQL (not only SQL) via la création d'un réseau social fictif (Proche de Twitter) . 
