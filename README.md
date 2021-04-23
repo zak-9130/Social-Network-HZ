@@ -4,12 +4,11 @@ Social Network HZ Mongo Project
 ### Introduction
 
 <p align="center">
-  <img src="https://github.com/zak-9130/Social-Network-HZ/blob/main/image.png" img src="https://github.com/zak-9130/Social-Network-HZ/blob/main/image2.png"  />
+<img src="https://github.com/zak-9130/Social-Network-HZ/blob/main/image2.png">
 </p>
 
- 
- 
 
+ 
 Ce Repo concerne un projet de création de base donnée noSQL (not only SQL) via la création d'un réseau social fictif (Proche de Twitter) . 
 Tout ceci est présenté sous forme d'une application crée à l'aide de Flask.
 Bonne découverte de notre nouvel univers social ! 
@@ -19,6 +18,11 @@ Bonne découverte de notre nouvel univers social !
 ### Dépendences
 
 #### Neo4j
+
+<p align="center">
+  <img src="https://github.com/zak-9130/Social-Network-HZ/blob/main/image.png"  />
+</p>
+
 - python3 (python 3.7.6)
 - py2neo (Graph ,Node, Relation)
 - neo4j (GraphDatabase)
